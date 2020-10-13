@@ -1,0 +1,21 @@
+<style>
+    table {
+      background-color: blue;
+      text-align: center;
+      border-collapse: collapse;
+      border: 1px solid black;
+    }
+    
+    td {
+      height: 60px;
+      width: 60px;
+      vertical-align: center;
+      horizontal-align: center; 
+      border: 1px solid black;
+    }
+    tr {
+    
+        background-color: aqua;
+    
+    }
+    </style>
